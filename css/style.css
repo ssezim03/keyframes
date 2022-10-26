@@ -22,6 +22,7 @@ body {
     height: 80px;
     margin: 30px 80px 20px 0;
 }
+
 .log {
     width: 73px;
     height: 36px;
@@ -29,10 +30,11 @@ body {
     font-size: 15px;
     line-height: 32px;
     color: #FFFFFF;
-    margin-top:-115px;
+    margin-top: -115px;
     margin-left: 110px;
 }
-.head-menu{
+
+.head-menu {
     width: 50%;
     font-weight: 500;
     font-size: 12px;
@@ -42,9 +44,11 @@ body {
     margin-left: 280px;
 
 }
-.menu-2{
+
+.menu-2 {
     color: #FFFFFF;
 }
+
 .head-btn button {
     width: 100px;
     height: 40px;
@@ -65,9 +69,10 @@ body {
     margin: -40px 0 0 1250px;
 
 }
-.head-language{
+
+.head-language {
     width: 31px;
     height: 30px;
-    margin: -20px 0 0 1200px ;
+    margin: -20px 0 0 1200px;
 
 }
