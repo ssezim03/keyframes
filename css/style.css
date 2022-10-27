@@ -67,12 +67,84 @@ body {
 
 .head-btn {
     margin: -40px 0 0 1250px;
-
 }
 
 .head-language {
     width: 31px;
     height: 30px;
     margin: -20px 0 0 1200px;
+}
 
+.hero {
+    height: 580px;
+    background: url("../img/Rectangle 2068.png") no-repeat center/cover;;
+}
+
+.hero-log {
+    color: #FFFFFF;
+}
+
+.log-1 {
+    padding: 50px 0 0 0;
+    height: 54px;
+    left: 80px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+}
+
+.mini-log {
+    width: 419px;
+    height: 81px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.hero-btn {
+    width: 178px;
+    height: 40px;
+    background: #1A5CFF;
+    box-shadow: 0 8px 20px rgba(26, 92, 255, 0.2);
+    border-radius: 15px;
+    border: none;
+    color: #FFFFFF;
+    margin: 20px 30px;
+}
+
+.hero-btn:hover {
+    transition: .4s;
+    transform: scale(1.2);
+}
+
+.hero-button {
+    box-sizing: border-box;
+    width: 100px;
+    height: 40px;
+    border: 1px solid #9099A3;
+    border-radius: 15px;
+    color: #9099A3;
+    background: transparent;
+}
+
+.hero-button:hover {
+    transition: .4s;
+    transform: scale(1.2);
+}
+
+.home {
+    width: 10%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 1200px;
+    margin-top: -250px;
+}
+
+.hero-home {
+    width: 100px;
+    height: 17px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
 }
